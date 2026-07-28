@@ -1,8 +1,3 @@
-.banner {
-width: 100%;
-border-radius: 8px;
-}
-
 body {
     font-family: Georgia, serif;
     max-width: 900px;
@@ -58,4 +53,27 @@ ul {
 
 hr {
     display: none;
+}
+
+.banner {
+width: 100%;
+border-radius: 8px;
+}
+
+
+.sted {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.sted img {
+    width: 250px;
+    border-radius: 8px;
+    border: 2px solid #8b6f47;
+}
+
+.sted div {
+    flex: 1;
 }
