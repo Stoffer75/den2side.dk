@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bord Regler - Danevang</title>
+</head>
+<body>
+
+    <h1>Danevang</h1>
+
+    <nav>
+        <adex.htmlStart</a> |
+        <a href="bordregler.html">Bord |
+        <a href="baggrund.html">> |
+        karakterer.htmlKarakterer og Steder</a>
+    </nav>
+
+    <hr>
+
+    <h2>Noget for noget</h2>
+
+    <p>
+        Hvis man i kamp bruger terrænet fordelsmæssigt,
+        kan man få en bonus.
+    </p>
+
+</body>
+</html>
