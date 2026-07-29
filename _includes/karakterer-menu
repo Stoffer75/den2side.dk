@@ -1,0 +1,7 @@
+<h1>Danevang</h1>
+
+<nav>
+        <a href="{{ '/karakterer/pc.html' | relative_url }}">Heltene</a> |
+        <a href="{{ '/karakterer/npc.html' | relative_url }}">Skurke</a> |
+        <a href="{{ '/karakterer/steder.html' | relative_url }}">Lokationer</a>
+</nav>
