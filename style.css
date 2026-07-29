@@ -178,3 +178,28 @@ margin-bottom: 0px;
     color: #6b4c2a;
     margin-bottom: 15px;
 }
+
+@media (max-width: 768px) {
+
+    body {
+        padding: 10px;
+    }
+
+    .banner {
+        height: 160px;
+    }
+
+    .sted {
+        flex-direction: column;
+    }
+
+    .sted img {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    nav {
+        font-size: 0.9em;
+    }
+
+}
