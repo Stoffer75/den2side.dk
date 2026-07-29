@@ -70,6 +70,7 @@ border-radius: 8px;
 
 .sted img {
     width: 250px;
+    height: auto;
     border-radius: 8px;
     border: 2px solid #8b6f47;
 }
