@@ -175,3 +175,9 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 .dropdown li:hover {
     background-color: #c8b38a;
 }
+
+.breadcrumb {
+    font-size: 0.9em;
+    color: #6b4c2a;
+    margin-bottom: 15px;
+}
