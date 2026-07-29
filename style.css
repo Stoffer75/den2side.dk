@@ -66,7 +66,6 @@ width: 100%;
 border-radius: 8px;
 }
 
-
 .sted {
     display: flex;
     gap: 20px;
@@ -140,7 +139,6 @@ border-radius: 8px;
     padding: 8px 16px;
     text-align: left;
 }
-`
 
 .has-dropdown:hover .dropdown {
     display: block;
