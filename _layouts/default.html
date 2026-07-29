@@ -9,9 +9,10 @@
 </head>
 
 <body>
-
-    <img src="{{ '/assets/images/Banner.png' | relative_url }}">
-        
+    <ul> class="banner"
+        <img src="{{ '/assets/images/Banner.png' | relative_url }}">
+    </ul>    
+    
     {% include navigation.html %}
 
     {{ content }}
