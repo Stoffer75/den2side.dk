@@ -9,10 +9,11 @@
 </head>
 
 <body>
-    <ul class="banner">
-        <img src="{{ '/assets/images/Banner.png' | relative_url }}">
-    </ul>    
-    
+    <img
+        class="banner"
+        src="{{ '/assets/images/Banner.png' | relative_url }}"
+        alt="Davevang banner">
+        
     {% include navigation.html %}
 
     {{ content }}
