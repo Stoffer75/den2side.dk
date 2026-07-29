@@ -55,25 +55,25 @@ hr {
     display: none;
 }
 
-banner {
+.banner {
 width: 100%;
 border-radius: 8px;
 }
 
 
-sted {
+.sted {
     display: flex;
     gap: 20px;
     align-items: flex-start;
     margin-bottom: 30px;
 }
 
-sted img {
+.sted img {
     width: 250px;
     border-radius: 8px;
     border: 2px solid #8b6f47;
 }
 
-sted div {
+.sted div {
     flex: 1;
 }
