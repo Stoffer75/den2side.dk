@@ -1,0 +1,7 @@
+---
+layout: default
+title: Danevang
+---
+<p class="breadcrumb">
+<a href="{{ '/karakterer.html' | relative_url }}">Folg og Fæ</a> → Lokationer
+</p>
