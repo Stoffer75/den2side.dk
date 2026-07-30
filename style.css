@@ -1,5 +1,5 @@
 body {
-    font-family: Georgia, serif;
+    font-family: Alegreya, serif;
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+    font-family: Cinzel, serif;
     text-align: center;
     color: #5b3a1a;
     border-bottom: 3px solid #8b6f47;
@@ -17,12 +18,14 @@ h1 {
 }
 
 h2 {
+    font-family: Cinzel, serif;
     color: #6b4c2a;
     border-left: 4px solid #8b6f47;
     padding-left: 10px;
 }
 
 h3 {
+    font-family: Cinzel, serif;
     color: #6b4c2a;
     border-left: 2px solid #8b6f47;
     padding-left: 5px;
