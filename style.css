@@ -220,11 +220,10 @@ border-radius: 8px;
     background: transparent;
     padding-top: 0;
     padding-bottom: 0;
-    margin-bottom: -10px;    
 }
 
 .baggrund-list li {
-    margin-bottom: 0.5em;
+    margin-bottom: -0.5em;
 }
 
 @media (max-width: 768px) {
