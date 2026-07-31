@@ -27,7 +27,8 @@ h2 {
 h3 {
     font-family: 'Cinzel', serif;
     color: #6b4c2a;
-    margin-bottom: -15px
+    border-left: 2px solid #8b6f47;
+    padding-left: 5px;
 }
 
 nav {
@@ -209,4 +210,23 @@ border-radius: 8px;
         font-size: 0.9em;
     }
 
+}
+
+/* Baggrund-list: bullets and indented 40px, transparent background to match body text */
+.baggrund-list {
+    list-style: disc;
+    list-style-position: outside;
+    margin-left: 40px;
+    padding-left: 0;
+    background: transparent;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.baggrund-list li {
+    margin-bottom: 0.5em;
+}
+
+@media (max-width: 768px) {
+  .baggrund-list { margin-left: 1.25em; }
 }
