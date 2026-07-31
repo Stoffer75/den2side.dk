@@ -218,7 +218,7 @@ border-radius: 8px;
     margin-left: 40px;
     padding-left: 0;
     background: transparent;
-    padding-top: 0;
+    padding-top: -10px;
     padding-bottom: 0;
 }
 
